@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854293747984",
+    "project_id": "steam-4f7d7",
+    "storage_bucket": "steam-4f7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854293747984:android:d033fdabf9c41eb4df6d95",
+        "android_client_info": {
+          "package_name": "io.arjuningole.steam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854293747984-67mu477fafpldada7gr9jn39p9u0fkc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.arjuningole.steam",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "854293747984-ba6aamc7use4ee2spohk06v95lrfeaef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IPRYW2LTgf5WtAFGiPsUV3OZLArqfuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854293747984-ba6aamc7use4ee2spohk06v95lrfeaef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
